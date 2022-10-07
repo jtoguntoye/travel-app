@@ -1,0 +1,3 @@
+[submodule "frontend/iris-pwa"]
+	path = frontend/iris-pwa
+	url = git@github.com:ekamanelly/iris-pwa.git

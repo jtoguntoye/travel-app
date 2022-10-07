@@ -1,3 +1,6 @@
 [submodule "frontend/iris-pwa"]
 	path = frontend/iris-pwa
 	url = git@github.com:ekamanelly/iris-pwa.git
+[submodule "server/express_server_mongodb"]
+	path = server/express_server_mongodb
+	url = git@github.com:ekamanelly/express_server_mongodb.git
